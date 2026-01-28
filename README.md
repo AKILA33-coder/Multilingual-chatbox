@@ -125,3 +125,5 @@ This project was developed as part of the **AI & ML Laboratory** under the guida
 ## 📜 License
 
 This project is for **academic and educational purposes only**.
+## 🌍 Live Web App
+🔗 https://multilingual-chatbox-n2cfhane7utbiggdhhsnux.streamlit.app/
